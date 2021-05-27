@@ -10,7 +10,7 @@
 
 ## 중요 파일
 
-- backend/storages.py
+- backend/config/storages.py
 - backend/config/vultr_settings.py
 
 ## 설명
